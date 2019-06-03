@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{78377550-AA47-50FE-14C9-EADE82CC775A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PixelAnim/PixelAnimWindow.cs">
+    <Files>
+      <File FileName="Assets/PixelAnim/PixelAnimator.cs" Line="107" Column="1" />
+      <File FileName="Assets/PixelAnim/PixelAnimWindow.cs" Line="802" Column="1" />
+      <File FileName="Assets/PixelAnim/Transition.cs" Line="39" Column="14" />
+      <File FileName="Assets/PixelAnim/Timeline.cs" Line="109" Column="1" />
+      <File FileName="Assets/PixelAnim/PixelAnimation.cs" Line="14" Column="5" />
+      <File FileName="Assets/PixelAnim/Parameter.cs" Line="4" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,2257 @@
+fileFormatVersion: 2
+guid: 316909169021a0d4a963f3ef079df644
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: LevelTiles_0
+  - first:
+      213: 21300002
+    second: LevelTiles_1
+  - first:
+      213: 21300004
+    second: LevelTiles_2
+  - first:
+      213: 21300006
+    second: LevelTiles_3
+  - first:
+      213: 21300008
+    second: LevelTiles_4
+  - first:
+      213: 21300010
+    second: LevelTiles_5
+  - first:
+      213: 21300012
+    second: LevelTiles_6
+  - first:
+      213: 21300014
+    second: LevelTiles_7
+  - first:
+      213: 21300016
+    second: LevelTiles_8
+  - first:
+      213: 21300018
+    second: LevelTiles_9
+  - first:
+      213: 21300020
+    second: LevelTiles_10
+  - first:
+      213: 21300022
+    second: LevelTiles_11
+  - first:
+      213: 21300024
+    second: LevelTiles_12
+  - first:
+      213: 21300026
+    second: LevelTiles_13
+  - first:
+      213: 21300028
+    second: LevelTiles_14
+  - first:
+      213: 21300030
+    second: LevelTiles_15
+  - first:
+      213: 21300032
+    second: LevelTiles_16
+  - first:
+      213: 21300034
+    second: LevelTiles_17
+  - first:
+      213: 21300036
+    second: LevelTiles_18
+  - first:
+      213: 21300038
+    second: LevelTiles_19
+  - first:
+      213: 21300040
+    second: LevelTiles_20
+  - first:
+      213: 21300042
+    second: LevelTiles_21
+  - first:
+      213: 21300044
+    second: LevelTiles_22
+  - first:
+      213: 21300046
+    second: LevelTiles_23
+  - first:
+      213: 21300048
+    second: LevelTiles_24
+  - first:
+      213: 21300050
+    second: LevelTiles_25
+  - first:
+      213: 21300052
+    second: LevelTiles_26
+  - first:
+      213: 21300054
+    second: LevelTiles_27
+  - first:
+      213: 21300056
+    second: LevelTiles_28
+  - first:
+      213: 21300058
+    second: LevelTiles_29
+  - first:
+      213: 21300060
+    second: LevelTiles_30
+  - first:
+      213: 21300062
+    second: LevelTiles_31
+  - first:
+      213: 21300064
+    second: LevelTiles_32
+  - first:
+      213: 21300066
+    second: LevelTiles_33
+  - first:
+      213: 21300068
+    second: LevelTiles_34
+  - first:
+      213: 21300070
+    second: LevelTiles_35
+  - first:
+      213: 21300072
+    second: LevelTiles_36
+  - first:
+      213: 21300074
+    second: LevelTiles_37
+  - first:
+      213: 21300076
+    second: LevelTiles_38
+  - first:
+      213: 21300078
+    second: LevelTiles_39
+  - first:
+      213: 21300080
+    second: LevelTiles_40
+  - first:
+      213: 21300082
+    second: LevelTiles_41
+  - first:
+      213: 21300084
+    second: LevelTiles_42
+  - first:
+      213: 21300086
+    second: LevelTiles_43
+  - first:
+      213: 21300088
+    second: LevelTiles_44
+  - first:
+      213: 21300090
+    second: LevelTiles_45
+  - first:
+      213: 21300092
+    second: LevelTiles_46
+  - first:
+      213: 21300094
+    second: LevelTiles_47
+  - first:
+      213: 21300096
+    second: LevelTiles_48
+  - first:
+      213: 21300098
+    second: LevelTiles_49
+  - first:
+      213: 21300100
+    second: LevelTiles_50
+  - first:
+      213: 21300102
+    second: LevelTiles_51
+  - first:
+      213: 21300104
+    second: LevelTiles_52
+  - first:
+      213: 21300106
+    second: LevelTiles_53
+  - first:
+      213: 21300108
+    second: LevelTiles_54
+  - first:
+      213: 21300110
+    second: LevelTiles_55
+  - first:
+      213: 21300112
+    second: LevelTiles_56
+  - first:
+      213: 21300114
+    second: LevelTiles_57
+  - first:
+      213: 21300116
+    second: LevelTiles_58
+  - first:
+      213: 21300118
+    second: LevelTiles_59
+  - first:
+      213: 21300120
+    second: LevelTiles_60
+  - first:
+      213: 21300122
+    second: LevelTiles_61
+  - first:
+      213: 21300124
+    second: LevelTiles_62
+  - first:
+      213: 21300126
+    second: LevelTiles_63
+  - first:
+      213: 21300128
+    second: LevelTiles_64
+  - first:
+      213: 21300130
+    second: LevelTiles_65
+  - first:
+      213: 21300132
+    second: LevelTiles_66
+  - first:
+      213: 21300134
+    second: LevelTiles_67
+  - first:
+      213: 21300136
+    second: LevelTiles_68
+  - first:
+      213: 21300138
+    second: LevelTiles_69
+  - first:
+      213: 21300140
+    second: LevelTiles_70
+  - first:
+      213: 21300142
+    second: LevelTiles_71
+  - first:
+      213: 21300144
+    second: LevelTiles_72
+  - first:
+      213: 21300146
+    second: LevelTiles_73
+  - first:
+      213: 21300148
+    second: LevelTiles_74
+  - first:
+      213: 21300150
+    second: LevelTiles_75
+  - first:
+      213: 21300152
+    second: LevelTiles_76
+  - first:
+      213: 21300154
+    second: LevelTiles_77
+  - first:
+      213: 21300156
+    second: LevelTiles_78
+  - first:
+      213: 21300158
+    second: LevelTiles_79
+  - first:
+      213: 21300160
+    second: LevelTiles_80
+  - first:
+      213: 21300162
+    second: LevelTiles_81
+  - first:
+      213: 21300164
+    second: LevelTiles_82
+  - first:
+      213: 21300166
+    second: LevelTiles_83
+  - first:
+      213: 21300168
+    second: LevelTiles_84
+  - first:
+      213: 21300170
+    second: LevelTiles_85
+  - first:
+      213: 21300172
+    second: LevelTiles_86
+  - first:
+      213: 21300174
+    second: LevelTiles_87
+  - first:
+      213: 21300176
+    second: LevelTiles_88
+  - first:
+      213: 21300178
+    second: LevelTiles_89
+  - first:
+      213: 21300180
+    second: LevelTiles_90
+  - first:
+      213: 21300182
+    second: LevelTiles_91
+  - first:
+      213: 21300184
+    second: LevelTiles_92
+  - first:
+      213: 21300186
+    second: LevelTiles_93
+  - first:
+      213: 21300188
+    second: LevelTiles_94
+  - first:
+      213: 21300190
+    second: LevelTiles_95
+  - first:
+      213: 21300192
+    second: LevelTiles_96
+  - first:
+      213: 21300194
+    second: LevelTiles_97
+  - first:
+      213: 21300196
+    second: LevelTiles_98
+  - first:
+      213: 21300198
+    second: LevelTiles_99
+  - first:
+      213: 21300200
+    second: LevelTiles_100
+  - first:
+      213: 21300202
+    second: LevelTiles_101
+  - first:
+      213: 21300204
+    second: LevelTiles_102
+  - first:
+      213: 21300206
+    second: LevelTiles_103
+  - first:
+      213: 21300208
+    second: LevelTiles_104
+  - first:
+      213: 21300210
+    second: LevelTiles_105
+  - first:
+      213: 21300212
+    second: LevelTiles_106
+  - first:
+      213: 21300214
+    second: LevelTiles_107
+  - first:
+      213: 21300216
+    second: LevelTiles_108
+  - first:
+      213: 21300218
+    second: LevelTiles_109
+  - first:
+      213: 21300220
+    second: LevelTiles_110
+  - first:
+      213: 21300222
+    second: LevelTiles_111
+  - first:
+      213: 21300224
+    second: LevelTiles_112
+  - first:
+      213: 21300226
+    second: LevelTiles_113
+  - first:
+      213: 21300228
+    second: LevelTiles_114
+  - first:
+      213: 21300230
+    second: LevelTiles_115
+  - first:
+      213: 21300232
+    second: LevelTiles_116
+  - first:
+      213: 21300234
+    second: LevelTiles_117
+  - first:
+      213: 21300236
+    second: LevelTiles_118
+  - first:
+      213: 21300238
+    second: LevelTiles_119
+  - first:
+      213: 21300240
+    second: LevelTiles_120
+  - first:
+      213: 21300242
+    second: LevelTiles_121
+  - first:
+      213: 21300244
+    second: LevelTiles_122
+  - first:
+      213: 21300246
+    second: LevelTiles_123
+  - first:
+      213: 21300248
+    second: LevelTiles_124
+  - first:
+      213: 21300250
+    second: LevelTiles_125
+  - first:
+      213: 21300252
+    second: LevelTiles_126
+  - first:
+      213: 21300254
+    second: LevelTiles_127
+  - first:
+      213: 21300256
+    second: LevelTiles_128
+  - first:
+      213: 21300258
+    second: LevelTiles_129
+  - first:
+      213: 21300260
+    second: LevelTiles_130
+  - first:
+      213: 21300262
+    second: LevelTiles_131
+  - first:
+      213: 21300264
+    second: LevelTiles_132
+  - first:
+      213: 21300266
+    second: LevelTiles_133
+  - first:
+      213: 21300268
+    second: LevelTiles_134
+  - first:
+      213: 21300270
+    second: LevelTiles_135
+  - first:
+      213: 21300272
+    second: LevelTiles_136
+  - first:
+      213: 21300274
+    second: LevelTiles_137
+  - first:
+      213: 21300276
+    second: LevelTiles_138
+  - first:
+      213: 21300278
+    second: LevelTiles_139
+  - first:
+      213: 21300280
+    second: LevelTiles_140
+  - first:
+      213: 21300282
+    second: LevelTiles_141
+  - first:
+      213: 21300284
+    second: LevelTiles_142
+  - first:
+      213: 21300286
+    second: LevelTiles_143
+  - first:
+      213: 21300288
+    second: LevelTiles_144
+  - first:
+      213: 21300290
+    second: LevelTiles_145
+  - first:
+      213: 21300292
+    second: LevelTiles_146
+  - first:
+      213: 21300294
+    second: LevelTiles_147
+  - first:
+      213: 21300296
+    second: LevelTiles_148
+  - first:
+      213: 21300298
+    second: LevelTiles_149
+  - first:
+      213: 21300300
+    second: LevelTiles_150
+  - first:
+      213: 21300302
+    second: LevelTiles_151
+  - first:
+      213: 21300304
+    second: LevelTiles_152
+  - first:
+      213: 21300306
+    second: LevelTiles_153
+  - first:
+      213: 21300308
+    second: LevelTiles_154
+  - first:
+      213: 21300310
+    second: LevelTiles_155
+  - first:
+      213: 21300312
+    second: LevelTiles_156
+  - first:
+      213: 21300314
+    second: LevelTiles_157
+  - first:
+      213: 21300316
+    second: LevelTiles_158
+  - first:
+      213: 21300318
+    second: LevelTiles_159
+  - first:
+      213: 21300320
+    second: LevelTiles_160
+  - first:
+      213: 21300322
+    second: LevelTiles_161
+  - first:
+      213: 21300324
+    second: LevelTiles_162
+  - first:
+      213: 21300326
+    second: LevelTiles_163
+  - first:
+      213: 21300328
+    second: LevelTiles_164
+  - first:
+      213: 21300330
+    second: LevelTiles_165
+  - first:
+      213: 21300332
+    second: LevelTiles_166
+  - first:
+      213: 21300334
+    second: LevelTiles_167
+  - first:
+      213: 21300336
+    second: LevelTiles_168
+  - first:
+      213: 21300338
+    second: LevelTiles_169
+  - first:
+      213: 21300340
+    second: LevelTiles_170
+  - first:
+      213: 21300342
+    second: LevelTiles_171
+  - first:
+      213: 21300344
+    second: LevelTiles_172
+  - first:
+      213: 21300346
+    second: LevelTiles_173
+  - first:
+      213: 21300348
+    second: LevelTiles_174
+  - first:
+      213: 21300350
+    second: LevelTiles_175
+  - first:
+      213: 21300352
+    second: LevelTiles_176
+  - first:
+      213: 21300354
+    second: LevelTiles_177
+  - first:
+      213: 21300356
+    second: LevelTiles_178
+  - first:
+      213: 21300358
+    second: LevelTiles_179
+  - first:
+      213: 21300360
+    second: LevelTiles_180
+  - first:
+      213: 21300362
+    second: LevelTiles_181
+  - first:
+      213: 21300364
+    second: LevelTiles_182
+  - first:
+      213: 21300366
+    second: LevelTiles_183
+  - first:
+      213: 21300368
+    second: LevelTiles_184
+  - first:
+      213: 21300370
+    second: LevelTiles_185
+  - first:
+      213: 21300372
+    second: LevelTiles_186
+  - first:
+      213: 21300374
+    second: LevelTiles_187
+  - first:
+      213: 21300376
+    second: LevelTiles_188
+  - first:
+      213: 21300378
+    second: LevelTiles_189
+  - first:
+      213: 21300380
+    second: LevelTiles_190
+  - first:
+      213: 21300382
+    second: LevelTiles_191
+  - first:
+      213: 21300384
+    second: LevelTiles_192
+  - first:
+      213: 21300386
+    second: LevelTiles_193
+  - first:
+      213: 21300388
+    second: LevelTiles_194
+  - first:
+      213: 21300390
+    second: LevelTiles_195
+  - first:
+      213: 21300392
+    second: LevelTiles_196
+  - first:
+      213: 21300394
+    second: LevelTiles_197
+  - first:
+      213: 21300396
+    second: LevelTiles_198
+  - first:
+      213: 21300398
+    second: LevelTiles_199
+  - first:
+      213: 21300400
+    second: LevelTiles_200
+  - first:
+      213: 21300402
+    second: LevelTiles_201
+  - first:
+      213: 21300404
+    second: LevelTiles_202
+  - first:
+      213: 21300406
+    second: LevelTiles_203
+  - first:
+      213: 21300408
+    second: LevelTiles_204
+  - first:
+      213: 21300410
+    second: LevelTiles_205
+  - first:
+      213: 21300412
+    second: LevelTiles_206
+  - first:
+      213: 21300414
+    second: LevelTiles_207
+  - first:
+      213: 21300416
+    second: LevelTiles_208
+  - first:
+      213: 21300418
+    second: LevelTiles_209
+  - first:
+      213: 21300420
+    second: LevelTiles_210
+  - first:
+      213: 21300422
+    second: LevelTiles_211
+  - first:
+      213: 21300424
+    second: LevelTiles_212
+  - first:
+      213: 21300426
+    second: LevelTiles_213
+  - first:
+      213: 21300428
+    second: LevelTiles_214
+  - first:
+      213: 21300430
+    second: LevelTiles_215
+  - first:
+      213: 21300432
+    second: LevelTiles_216
+  - first:
+      213: 21300434
+    second: LevelTiles_217
+  - first:
+      213: 21300436
+    second: LevelTiles_218
+  - first:
+      213: 21300438
+    second: LevelTiles_219
+  - first:
+      213: 21300440
+    second: LevelTiles_220
+  - first:
+      213: 21300442
+    second: LevelTiles_221
+  - first:
+      213: 21300444
+    second: LevelTiles_222
+  - first:
+      213: 21300446
+    second: LevelTiles_223
+  - first:
+      213: 21300448
+    second: LevelTiles_224
+  - first:
+      213: 21300450
+    second: LevelTiles_225
+  - first:
+      213: 21300452
+    second: LevelTiles_226
+  - first:
+      213: 21300454
+    second: LevelTiles_227
+  - first:
+      213: 21300456
+    second: LevelTiles_228
+  - first:
+      213: 21300458
+    second: LevelTiles_229
+  - first:
+      213: 21300460
+    second: LevelTiles_230
+  - first:
+      213: 21300462
+    second: LevelTiles_231
+  - first:
+      213: 21300464
+    second: LevelTiles_232
+  - first:
+      213: 21300466
+    second: LevelTiles_233
+  - first:
+      213: 21300468
+    second: LevelTiles_234
+  - first:
+      213: 21300470
+    second: LevelTiles_235
+  - first:
+      213: 21300472
+    second: LevelTiles_236
+  - first:
+      213: 21300474
+    second: LevelTiles_237
+  - first:
+      213: 21300476
+    second: LevelTiles_238
+  - first:
+      213: 21300478
+    second: LevelTiles_239
+  - first:
+      213: 21300480
+    second: LevelTiles_240
+  - first:
+      213: 21300482
+    second: LevelTiles_241
+  - first:
+      213: 21300484
+    second: LevelTiles_242
+  - first:
+      213: 21300486
+    second: LevelTiles_243
+  - first:
+      213: 21300488
+    second: LevelTiles_244
+  - first:
+      213: 21300490
+    second: LevelTiles_245
+  - first:
+      213: 21300492
+    second: LevelTiles_246
+  - first:
+      213: 21300494
+    second: LevelTiles_247
+  - first:
+      213: 21300496
+    second: LevelTiles_248
+  - first:
+      213: 21300498
+    second: LevelTiles_249
+  - first:
+      213: 21300500
+    second: LevelTiles_250
+  - first:
+      213: 21300502
+    second: LevelTiles_251
+  - first:
+      213: 21300504
+    second: LevelTiles_252
+  - first:
+      213: 21300506
+    second: LevelTiles_253
+  - first:
+      213: 21300508
+    second: LevelTiles_254
+  - first:
+      213: 21300510
+    second: LevelTiles_255
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c888eff24396042a8a7335bc448094
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125b3347814cb8a40ae8f81a51f0b001
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379069d8bc870f444a4b3fa70e35317f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99290a3f09683d740bdfcf2019470636
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31224f69e9aa1934bbbf256624b6f9d6
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0435b0e7a0cad3d49a02989f61fd997f
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de783962056957c4d922afbbcb667fa7
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a349ad51cb2ae1b4689e6dc55a78b4c6
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcc2227bd890ba469d928dd1b0a932a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2269616c71ebd408277e9d64801ac8
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fd07eaaa1cbce45abeacc1015524d7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37498598e430b84d986ad005ddfb858
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01199d5c56539640a02e4705eef7a36
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610e3688532a88f48a96d214cf7228ec
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316f532aef35d5c458ad9c8b144b58fd
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80659078aa4157a448d24054aca3421e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1e53ef5d6d9db408d7710dd89e6b25
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7156e25915f051945bd65d3a73da5d4a
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356b9d0df61f17e4eb36ea64f55526fc
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d714b5c5dfd038419875b225f1cbf37
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50e92ed85422b448a0d93779624ccf7
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5d3d53d739d0c4d8345fb4f9fce530
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7dce8040b79cc4f8a10671b53ba0ec
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21d035808ac61044a0720fce4f65741
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03a1d438fe66d4498631bbcb6dd15ce
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219026df5551a2240a1467f1651296f1
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d03852396106564985361d383d4a4ad
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb9e0fde4b78874f8ab1387a25bc1d9
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63021089a22ea54ca729ca1762631aa
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5983dc023565c409bdf3c3214a49cf
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54e2bfa4876b404ba1052c46c4db8e5
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8d6d0dad645da4fbf204cda8b087b3
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cc53a9c66c7d440acf0be9d331176e
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397e867d0d2b760458ba7e8631d9ee1a
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10401a67f66c6df4fad7fd54ef9d4e3f
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f059376e91bbecd4296f7dbbac7ca72d
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eac1d29e74a74c4f9257995888b0d12
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae88aaf5fa4ba64a88988cb3b1a8917
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74de90663f986924192cba8dc57ed4f7
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38127d5b2c50874089a700f41844c00
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec5be79c60e64249b2a8f7584f3e011
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffd997f2c493f143952f286441c42ac
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5e49adc7fa6d9458b16d034911ed42
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca5f7512b2d0ea44a8f34840b98d245
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a83b3b93769e2c4e98b7161f7b2eac6
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7d07bd6216430408f860485a368815
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2123d6ff3d8f174fa4df2d511082c70
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043d9b38c34bd7248a2b3aa55657b406
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e13814bb7d10814eb85b452ee35c8ae
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2481d82a2e06804c87ff96cb7032dfb
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18412bbd4243ee343a8611eec3fb5ebe
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e877d8598bbf44cb879b3435240a4c
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1367caf7b4c4b794298cca6906e01791
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0917984b254390b458a3b36f71a85205
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78710f501d7707f4ebffcbba2b9e07d5
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1410b3aac5e760b4582561129f5a990b
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fede9afcef029d4cbaa054ef906d060
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5227793e3f71f9541950cff20b89b99d
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d77f86d55bded40b91e6cf61f38782
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec9f52446b530d4cba59fdedc25d763
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d36a0a4867f39648800cc4eeeb09830
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61b67034f28c934aa4fc58e3e79fc29
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2406bd1931e9045a5319b92842ea3e
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTiles_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da74e16937bea8429bca991202653ee
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 57388bf92b3290743b00fc0270654a42
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

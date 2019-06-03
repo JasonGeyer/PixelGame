@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19e60a9a9756ccf49b40114fd86a3846, type: 3}
+  m_Name: Walk
+  m_EditorClassIdentifier: 
+  Frames: 0200000003000000040000000500000006000000070000000800000009000000
+  IsFrameExitPoint: 0100010000000000
+  framesPerSecond: 10
+  Parameters:
+  - {fileID: 11400000, guid: bb3276efc3e1c9b49850a783a7c4942e, type: 2}
+  - {fileID: 11400000, guid: bd8aa36ee19a2ec4b85e9162c8eebfe6, type: 2}
+  - {fileID: 11400000, guid: 59b2c8358717ec94da3c1cb528768415, type: 2}
+  - {fileID: 11400000, guid: 90e913dee7fa45141a2ce71dc7ecf690, type: 2}
+  - {fileID: 11400000, guid: 9bbb77d7861074845a352d9f18969a67, type: 2}
+  Transitions:
+  - {fileID: 11400000, guid: 1f8bd360367b7e242b76d4b1ebf542a5, type: 2}
+  - {fileID: 11400000, guid: aa5610f2264089e4db33571acff90b13, type: 2}
